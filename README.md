@@ -4,7 +4,7 @@
 
 이 프로젝트는 아래의 프로젝트를 참고하여 작성했습니다.
 
-| https://mikkegoes.com/javascript-projects-for-beginners/
+> https://mikkegoes.com/javascript-projects-for-beginners/
 
 <br>
 
@@ -16,7 +16,7 @@ PS. 팀원들끼리 각자 개발 후 코드 리뷰 및 회고 진행
 
 ⏰ 프로젝트 링크 ↓
 
-| https://seung-calculator.netlify.app
+> https://seung-calculator.netlify.app
 
 <br>
 
